@@ -50,7 +50,7 @@
     "crypto-js": "^4.0.0",
     "@foliojs-fork/fontkit": "^1.9.1",
     "@foliojs-fork/linebreak": "^1.1.1",
-    "png-js": "^1.0.0"
+    "@lfdoherty/png-js": "^1.0.0"
   },
   "scripts": {
     "prepublishOnly": "npm run build",
